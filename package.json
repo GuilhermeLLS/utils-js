@@ -1,0 +1,31 @@
+{
+  "name": "utils-js",
+  "version": "1.0.0",
+  "description": "a repo to find easy but usefull functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeLLS/utils-js.git"
+  },
+  "author": "Guilherme Luiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeLLS/utils-js/issues"
+  },
+  "homepage": "https://github.com/GuilhermeLLS/utils-js#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^25.2.1",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^25.2.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@babel/preset-typescript": "^7.9.0"
+  }
+}
